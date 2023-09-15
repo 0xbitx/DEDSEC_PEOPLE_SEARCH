@@ -5,7 +5,7 @@
 <h1 align="center"> DEDSEC_PEOPLE_SEARCH</h1>
 <h4 align="center"> Effortlessly Find Comprehensive Information on Individuals with Our dedsec People Search Tool!</h4>
 
-### INSTALLATION [KALI - PARROT - TERMUX]
+### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_PEOPLE_SEARCH.git
 * cd DEDSEC_PEOPLE_SEARCH
 * pip3 install pystyle
@@ -15,7 +15,6 @@
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
 
 ### LANGUAGE 
 * Python
