@@ -9,7 +9,7 @@
 * git clone https://github.com/0xbitx/DEDSEC_PEOPLE_SEARCH.git
 * cd DEDSEC_PEOPLE_SEARCH
 * pip3 install pystyle tabulate pycryptodome
-* python3 dedsec_people_search.py
+* ./dedsec_people_search
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
