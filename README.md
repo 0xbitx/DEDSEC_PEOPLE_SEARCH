@@ -8,7 +8,8 @@
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_PEOPLE_SEARCH.git
 * cd DEDSEC_PEOPLE_SEARCH
-* pip3 install pystyle tabulate pycryptodome
+* pip3 install pystyle
+* chmod +x dedsec_people_search
 * ./dedsec_people_search
 
 ### TESTED ON FOLLOWING
